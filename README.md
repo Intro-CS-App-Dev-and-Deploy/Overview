@@ -13,8 +13,10 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
 
-Quick Hyperlinks
-- Introductory CS Course, <a href="">Click here to skip to below</a>
+---
+
+Quick Hyperlinks skipping to below
+- Introductory CS Synchronous Course, <a href="">Click here to skip to below</a>, for the purpose of an Android Side-loaded App
 
 Table of Contents
 - Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
@@ -30,6 +32,18 @@ Table of Contents
   - Static: Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable) (see exemplar Folder), <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">click here for exemplar</a>
 - Gamification summary for assignments,
 - Rubrics for Projects and assignments,
+
+---
+
+### Preamble Notes
+
+Review Questions utilize Alberta Education's *Diploma Guiding Words*
+
+Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
+- **Reading Hint**: notice the difference between `/` & `\`
+- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
+- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
+- Instructions: File / Save
 
 ---
 
@@ -59,10 +73,11 @@ Additional Case Studies
 ### Computer Apps
 
 Using Processing-JAVA, Hello World, <a href="">Create this Example Code, starter and exemplar</a>
-- See Algorithms Repository
+- Introduction to
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
-- "Additions: what else would you put on in the console to tell the world using \t and other character escapes"
+- "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
+- See Algorithms Repository
 
 Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 ---
