@@ -1,6 +1,21 @@
 # Overview
 Vertical Teaming of High School CS Courses
 
+Two Mandatory Pieces of a Computer Environment
+- Creating and Maintaining a GitHub Account
+  - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
+  - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
+  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance"></a>
+- Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
+
+Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
+1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
+2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
+   - OPTION: use GitHub Classroom
+
+Quick Hyperlinks
+- Introductory CS Course, <a href="">Click here to skip to below</a>
+
 Table of Contents
 - Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
 - Webpages and Sites
@@ -16,6 +31,40 @@ Table of Contents
 - Gamification summary for assignments,
 - Rubrics for Projects and assignments,
 
+---
+
+## Introductory CS Progressions and Assignments
+
+Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
+- Where are GitHub Servers? Which countries and locations?
+- How far does data travel with every saving of code?
+- What would it mean to have a GitHub server in your home? (permissions and physical data updating)
+
+### All Case Studies
+
+Main Project, review what is possible with Ketai.org
+- GUI
+- List Behaviors and expectations
+- List data you will need to code
+- What will your touch screen and physical buttons be doing
+- List the other interactions this app will have and when these will be available (clean & minimal GUI)
+
+Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+
+Additional Case Studies
+- *Choose 5 or 6 Case Studies to share in paper through Google Classroom but then also uploaded to repository, once made and shared*
+
+### Websites
+
+### Computer Apps
+
+Using Processing-JAVA, Hello World, <a href="">Create this Example Code, starter and exemplar</a>
+- See Algorithms Repository
+- getting to know the console with print("\n") and println()
+- introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
+- "Additions: what else would you put on in the console to tell the world using \t and other character escapes"
+
+Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 ---
 
 # To Include
