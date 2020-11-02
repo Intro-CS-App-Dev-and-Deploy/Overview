@@ -75,7 +75,7 @@ Additional Case Studies (what users will see in an example )
 - *Note about submitting Case Studies*:
   - submit an image of paper and save this into the Repository made for the Project
   - export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
-- Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a> 
+- Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
 1. Hello World & Simple Counting (using formulae)
 2. Composite Images (Snow Globe, Measles, etc.)
 3. 3 by 3 Assignment including random colour with additional text, and images
@@ -141,3 +141,7 @@ Final Expectations
 Blocks of code
 
 Emphasized Functions
+
+Parameters related to ... rect() for the purpose of ... buttons?
+
+---
