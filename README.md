@@ -72,7 +72,7 @@ Additional Case Studies
 
 ### Computer Apps
 
-Using Processing-JAVA, Hello World, <a href="">Create this Example Code, starter and exemplar</a>
+Using Processing-JAVA, Hello World, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example Code, starter and exemplar</a>
 - Introduction to
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
