@@ -12,11 +12,13 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
+3. Create new repositories for each of the Case Studies listed below (<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-case-studies">here</a>)
 
 ---
 
 Quick Hyperlinks skipping to below
-- Introductory CS Synchronous Course, <a href="">Click here to skip to below</a>, for the purpose of an Android Side-loaded App
+- Introductory CS Synchronous Course, Websites, <a href="">Click here to skip to below, WHEN LINK IS READY</a>, for the detailed progressions and assignments of an Android Side-loaded App
+- Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
 
 Table of Contents
 - Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
@@ -27,7 +29,7 @@ Table of Contents
 
 - Android App Development
   - Project Summaries with Hyperlinks to project repositories
-  - Case Studies
+  - Case Studies, <a href="">Click here to skip to below</a>
   - Static: Hello World
   - Static: Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable) (see exemplar Folder), <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">click here for exemplar</a>
 - Gamification summary for assignments,
@@ -63,10 +65,23 @@ Main Project, review what is possible with Ketai.org
 - What will your touch screen and physical buttons be doing
 - List the other interactions this app will have and when these will be available (clean & minimal GUI)
 
-Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+Website Case Studies ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
+- "Who Am I" Website Project
+- Promotion of Android App: Drawing Program or Music Program
 
-Additional Case Studies
-- *Choose 5 or 6 Case Studies to share in paper through Google Classroom but then also uploaded to repository, once made and shared*
+Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+
+Additional Case Studies (what users will see in an example )
+- *Note about submitting Case Studies*:
+  - submit an image of paper and save this into the Repository made for the Project
+  - export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
+- Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a> 
+1. Hello World & Simple Counting (using formulae)
+2. Composite Images (Snow Globe, Measles, etc.)
+3. 3 by 3 Assignment including random colour with additional text, and images
+4. Drawing Program (including background song and sound effects using mouse)
+5. Music Program (including sound effects using key board and mouse)
+6. Final Project: using Ketai Library
 
 ### Websites
 
