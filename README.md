@@ -118,3 +118,11 @@ How do more advanced courses add to this?
 Note: With FOR Population after music player in arrays & two types of IF, more complicated code can be written
 
 ---
+
+Template
+
+Final Expectations
+
+Blocks of code
+
+Emphasized Functions
