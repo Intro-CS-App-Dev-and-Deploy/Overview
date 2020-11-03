@@ -107,7 +107,7 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository
 
-**Drawing a Rectangle**, <a href="">Create this Example Code, starter and exemplar</a>
+**Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example Code, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - CAUTION: might start with pixel numbers related to size() as if on a modified coordinate plane, BUT, ratios are better (see paperfolding lesson by Mr. Mercer)
@@ -169,18 +169,21 @@ Note: With FOR Population after music player in arrays & two types of IF, more c
 
 ---
 
-Template
+# Template
 
-Questions
+## Questions
 
-Final Expectations
+## Expectations
 
-Instructions, Vocabulary, & Explanations (Including URLs and IDE Use)
+## Instructions, Vocabulary, & Explanations (Including URLs and IDE Use)
 
-Blocks of code, Emphasized Functions
+## Blocks of code, Emphasized Functions
 
-Parameters related to ... rect() for the purpose of ... buttons?
+## Specific Functions and Parameters emphasized here
 
-Gamification or Rubric or Points
+## Gamification or Rubric or Points
+
+## Additional Information to Answer Questions
+
 
 ---
