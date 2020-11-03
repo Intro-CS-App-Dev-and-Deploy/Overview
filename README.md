@@ -100,14 +100,14 @@ Additional Case Studies (what users will see in an example )
 
 **Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
 
-Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example Code, starter and exemplar</a>
+Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository
 
-**Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example Code, starter and exemplar</a>
+**Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - CAUTION: might start with pixel numbers related to size() as if on a modified coordinate plane, BUT, ratios are better (see paperfolding lesson by Mr. Mercer)
