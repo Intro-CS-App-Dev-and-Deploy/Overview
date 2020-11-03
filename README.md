@@ -115,6 +115,8 @@ Review Google Drive for coding examples and other ideas
 
 How does AP Work into this?
 
+Grading Note: changing screen size automatically checks for size() or fullScreen() geometry ratios
+
 Introductory
 - Coding as if writing "an essay"
 - Introduction to static prototyping and dynamic visual data
