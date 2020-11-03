@@ -64,6 +64,8 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 
 ### Introductory CS Case Studies
 
+*IMPORTANT*: You should have 9 repositories started in GitHub & GitHub Desktop
+
 Main Project, review what is possible with Ketai.org
 - GUI
 - List Behaviors and expectations
