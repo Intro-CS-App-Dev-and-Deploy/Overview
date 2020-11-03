@@ -1,12 +1,15 @@
 # Overview
 Vertical Teaming of High School CS Courses
 
-Two Mandatory Pieces of a Computer Environment
+Four Mandatory Pieces of a Computer Environment
 - Creating and Maintaining a GitHub Account
   - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
   - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance"></a>
 - Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
+- Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
+  - Here: https://processing.org/
+- Downloading and Installing Atom.io, here, https://atom.io/
 
 Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
 1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
