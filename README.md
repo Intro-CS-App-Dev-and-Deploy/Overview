@@ -16,6 +16,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
+   - NOTE: you should take some time and explore GitHub Classroom (lots of free stuff to explore)
 3. Create new repositories for each of the Case Studies listed below
    - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>)
    - Intermediate CS
@@ -67,7 +68,8 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 
 *IMPORTANT*: You should have 9 repositories started in GitHub & GitHub Desktop
 
-Main Project, review what is possible with Ketai.org
+Main Project, Android App, review what is possible with Ketai.org
+- "Design a cell phone app for your main project" that will first run as a fullScreen() computer app
 - GUI
 - List Behaviors and expectations
 - List data you will need to code
@@ -96,12 +98,31 @@ Additional Case Studies (what users will see in an example )
 
 ### Computer Apps
 
-Using Processing-JAVA, Hello World, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example Code, starter and exemplar</a>
+**Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
+
+Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example Code, starter and exemplar</a>
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository
+
+**Drawing a Rectangle**
+- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
+- Exemplar is static and flat (comments will point toward dynamic sections)
+- CAUTION: might start with pixel numbers related to size() as if on a modified coordinate plane, BUT, ratios are better (see paperfolding lesson by Mr. Mercer)
+  - similar to DIV's in website design
+- Introduce separation of initiating & populating variables
+- Introduce `color` variable, hexadecimal, RGB Notation, random feature with inequality boundary, and IDE Color Sector
+  - IDE Color Selector: Tools / Color Selector
+- See Processing.org for additional parameters like opacity
+- Note about learning the hard way: video explores typing and reading in code, what different parameters to, and curiosity in prototyping a section of code
+- Note about primitive-version-control: these are "snapshots" of what coding a prototype might look like
+
+Future Ideas for static & flat programs
+- Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
+- Draw text
+- Draw image & aspect ratios
 
 ---
 
