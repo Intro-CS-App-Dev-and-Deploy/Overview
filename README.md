@@ -13,7 +13,9 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
 3. Create new repositories for each of the Case Studies listed below
-   - INtroductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-case-studies">here</a>)
+   - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>)
+   - Intermediate CS
+   - Advanced CS
 
 ---
 
@@ -89,13 +91,16 @@ Additional Case Studies (what users will see in an example )
 ### Computer Apps
 
 Using Processing-JAVA, Hello World, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example Code, starter and exemplar</a>
-- Introduction to
+- Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository
 
-Note for assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+---
+
+Note for all future assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+
 ---
 
 # To Include
@@ -137,12 +142,16 @@ Note: With FOR Population after music player in arrays & two types of IF, more c
 
 Template
 
+Questions
+
 Final Expectations
 
-Blocks of code
+Instructions, Vocabulary, & Explanations (Including URLs and IDE Use)
 
-Emphasized Functions
+Blocks of code, Emphasized Functions
 
 Parameters related to ... rect() for the purpose of ... buttons?
+
+Gamification or Rubric or Points
 
 ---
