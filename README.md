@@ -119,6 +119,24 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Note about learning the hard way: video explores typing and reading in code, what different parameters to, and curiosity in prototyping a section of code
 - Note about primitive-version-control: these are "snapshots" of what coding a prototype might look like
 
+**Continue Here, in *Draw a Rectangle* h**
+- Prototype a button as a rectangle
+- Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
+
+**Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
+- In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, that is the same in 8-bit GUI Design
+- Purpose: Learn parameters can be formulae based on geometry ratios or other variables
+  - using rect() parameters as variables in "divisions of page" metaphor leading variables for an inscribed circle (mimics Google's Clean &  Minimalist design of hover-over circles in Chrome)
+  - start with rect() to layout where other 2D Primitives will be located
+  - see prototyped example of rect() with inscribed circle ( ellipse() )
+- Exemplar is static and flat (comments will point toward dynamic sections)
+- Example Project Metaphors:
+  - Snow Globe
+  - Measles or Happy Face
+  - Others ... talk with Mr. Mercer
+
+**Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
+
 Future Ideas for static & flat programs
 - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
 - Draw text
