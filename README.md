@@ -1,7 +1,7 @@
 # Overview
 Vertical Teaming of High School CS Courses
 
-Four Mandatory Pieces of a Computer Environment
+Five Mandatory Pieces of a Computer Environment
 - Creating and Maintaining a GitHub Account
   - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
@@ -10,6 +10,7 @@ Four Mandatory Pieces of a Computer Environment
 - Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
   - Here: https://processing.org/
 - Downloading and Installing Atom.io, here, https://atom.io/
+- Downloading and Installing GitHub Desktop (i.e. version control software), https://desktop.github.com/
 
 Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
 1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
