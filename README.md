@@ -12,7 +12,8 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 1. Create a LinkedIn Account and share with Mr. Mercer and others in the class as profile is developed
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
-3. Create new repositories for each of the Case Studies listed below (<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-case-studies">here</a>)
+3. Create new repositories for each of the Case Studies listed below
+   - INtroductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-case-studies">here</a>)
 
 ---
 
@@ -56,7 +57,7 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 - How far does data travel with every saving of code?
 - What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
-### All Case Studies
+### Introductory CS Case Studies
 
 Main Project, review what is possible with Ketai.org
 - GUI
