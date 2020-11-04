@@ -131,6 +131,20 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Develops `String` Variable
 - Develops `rect() parameters` as copy-paste parameters in other Functions
 
+**Drawing an Image**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image">Create this Example, starter and exemplar</a>
+- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
+- Exemplar is static and flat (comments will point toward dynamic sections)
+- Illustrates:
+  - Visualizing where an image will be located with a rectangle
+  - Inspecting an image's geometry for aspect ratio
+  - Arithmetic for aspect ratio
+  - Catching Canvas errors when entire image will not display because display geometry is too small
+- Other exemplars demonstrate multiple images being displayed
+  - When is a display too small?
+  - Tracking variable names with alphanumeric system
+  - Introduction to arrays (further explored in Intermediate CS)
+- Big Idea: how to create a collage.
+- See Processing.org Tutorials for a *Scary Image* Project
 
 
 **Continue Here**
@@ -138,9 +152,6 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 
 
 
-**Drawing a Rectangle**, <a href="">Create this Example, starter and exemplar</a>
-- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
-- Exemplar is static and flat (comments will point toward dynamic sections)
 
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
 - In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, that is the same in 8-bit GUI Design
@@ -158,11 +169,15 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 
 Future Ideas for static & flat programs
 - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
-- Draw text
-- Draw image & aspect ratios
+
+Transition to Dynamic with Measles
+- add quit button too
 
 Dynamic Programs
 - Rectangle Applications: Quit Button
+- 3 by 3 home screen
+- drawing program
+- music program
 
 ---
 
