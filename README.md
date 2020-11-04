@@ -119,9 +119,28 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Note about learning the hard way: video explores typing and reading in code, what different parameters to, and curiosity in prototyping a section of code
 - Note about primitive-version-control: these are "snapshots" of what coding a prototype might look like
 
-**Continue Here, in *Draw a Rectangle* h**
-- Prototype a button as a rectangle
-- Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
+**Drawing Text**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Text">Create this Example, starter and exemplar</a>
+- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
+- Exemplar is static and flat (comments will point toward dynamic sections)
+- Illustrates:
+  - Visualizing where text will be located with a rectangle
+  - Choosing a font and size
+  - Choosing ink
+  - Simple Typography choices (see Processing.org / Reference / Search Typography for other choices)
+  - Debugging "white space" inside the font to choose a font size based on Display Geometry
+- Develops `String` Variable
+- Develops `rect() parameters` as copy-paste parameters in other Functions
+
+
+
+**Continue Here**
+
+
+
+
+**Drawing a Rectangle**, <a href="">Create this Example, starter and exemplar</a>
+- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
+- Exemplar is static and flat (comments will point toward dynamic sections)
 
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
 - In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, that is the same in 8-bit GUI Design
@@ -142,11 +161,27 @@ Future Ideas for static & flat programs
 - Draw text
 - Draw image & aspect ratios
 
+Dynamic Programs
+- Rectangle Applications: Quit Button
+
+---
+
+**Continue Here, in *Draw a Rectangle* h**
+- Prototype a button as a rectangle
+- Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
+- See ProtopyingButton.pde and Another Example
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button
 ---
 
 Note for all future assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 
 ---
+
+# To Include, Intermediate
+- Everything Arrays
+- Screen size checker
+- Text font calculator
+
 
 # To Include
 
