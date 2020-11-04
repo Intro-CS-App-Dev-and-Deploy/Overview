@@ -196,7 +196,10 @@ Note for all future assignments: the following must be drawn "exactly" in a case
 - Everything Arrays
 - Screen size checker
 - Text font calculator
+- JSON Data and Weather App with API
+- Tic Tac Toe algorithms with mobility device features
 
+---
 
 # To Include
 
