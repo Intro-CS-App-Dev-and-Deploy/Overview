@@ -30,11 +30,11 @@ Quick Hyperlinks skipping to below
 
 Table of Contents
 1. Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
-  - Webpages and Sites
-    - https://github.com/QEHS-Websites/Overview
-    - https://github.com/MercersKitchen/Webpages-Sites
-    - https://github.com/MercersKitchen/Website-Mentoring
-    - https://github.com/Dev-Outreach/Introduction-Static-HTML
+   - Webpages and Sites
+     - https://github.com/QEHS-Websites/Overview
+     - https://github.com/MercersKitchen/Webpages-Sites
+     - https://github.com/MercersKitchen/Website-Mentoring
+     - https://github.com/Dev-Outreach/Introduction-Static-HTML
 
 2. Android App Development: Overview Summary of "Vertical Teaming", <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
