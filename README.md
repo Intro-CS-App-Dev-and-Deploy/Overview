@@ -26,7 +26,7 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 
 Quick Hyperlinks skipping to below
 - Introductory CS Synchronous Course, Websites, <a href="https://github.com/QEHS-Websites/Overview">Click Here for the detailed progressions and assignments to promote information</a>
-- Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-progressions-and-assignments">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
+- Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
 
 Various Related Repositories
 1. Webpages and Sites
