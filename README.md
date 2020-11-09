@@ -29,12 +29,11 @@ Quick Hyperlinks skipping to below
 - Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-progressions-and-assignments">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
 
 Various Related Repositories
-1. Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
-   - Webpages and Sites
-     - https://github.com/QEHS-Websites/Overview
-     - https://github.com/MercersKitchen/Webpages-Sites
-     - https://github.com/MercersKitchen/Website-Mentoring
-     - https://github.com/Dev-Outreach/Introduction-Static-HTML
+1. Webpages and Sites
+   - https://github.com/QEHS-Websites/Overview
+   - https://github.com/MercersKitchen/Webpages-Sites
+   - https://github.com/MercersKitchen/Website-Mentoring
+   - https://github.com/Dev-Outreach/Introduction-Static-HTML
 
 2. Android App Development: Overview Summary of "Vertical Teaming", <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
    - Ideas coming from: https://github.com/MercersKitchen/Introductory-Computer-Science
