@@ -1,7 +1,7 @@
 # Overview
 Vertical Teaming of High School CS Courses
 
-Five Mandatory Pieces of a Computer Environment
+Five Mandatory Pieces of a Computer Environment for Android Apps
 - Creating and Maintaining a GitHub Account
   - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
