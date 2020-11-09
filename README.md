@@ -29,19 +29,14 @@ Quick Hyperlinks skipping to below
 - Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
 
 Table of Contents
-- Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
-- Webpages and Sites
-  - https://github.com/MercersKitchen/Webpages-Sites
-  - https://github.com/MercersKitchen/Website-Mentoring
-  - https://github.com/Dev-Outreach/Introduction-Static-HTML
+1. Overview Summary of "Vertical Teaming", <a href="">Click here when link ready</a>
+  - Webpages and Sites
+    - https://github.com/QEHS-Websites/Overview
+    - https://github.com/MercersKitchen/Webpages-Sites
+    - https://github.com/MercersKitchen/Website-Mentoring
+    - https://github.com/Dev-Outreach/Introduction-Static-HTML
 
-- Android App Development
-  - Project Summaries with Hyperlinks to project repositories
-  - Case Studies, <a href="">Click here to skip to below</a>
-  - Static: Hello World
-  - Static: Draw a Rectangle in Canvas exactly as a paper Case Study (paper folding is acceptable) (see exemplar Folder), <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">click here for exemplar</a>
-- Gamification summary for assignments,
-- Rubrics for Projects and assignments,
+2. Android App Development: Overview Summary of "Vertical Teaming", <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
 ---
 
