@@ -143,23 +143,27 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - See Processing.org Tutorials for a *Scary Image* Project
 
 
-**Continue Here**
-
 
 
 
 
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
-- In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, that is the same in 8-bit GUI Design
+- In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, which is the same in 8-bit GUI Design
 - Purpose: Learn parameters can be formulae based on geometry ratios or other variables
-  - using rect() parameters as variables in "divisions of page" metaphor leading variables for an inscribed circle (mimics Google's Clean &  Minimalist design of hover-over circles in Chrome)
-  - start with rect() to layout where other 2D Primitives will be located
-  - see prototyped example of rect() with inscribed circle ( ellipse() )
+  - using `rect()` parameters as variables in "divisions of page" metaphor leading variables for an inscribed circle (mimics Google's Clean &  Minimalist design of hover-over circles in Chrome)
+  - start with `rect()` to layout where other 2D Primitives will be located
+  - see prototyped example of `rect()` with inscribed circle ( ellipse() ): `Prototyping 2D Primitives`
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - Example Project Metaphors:
   - Snow Globe
-  - Measles or Happy Face
+  - Measles or Happy Face (See Flat Measles Exemplar)
   - Others ... talk with Mr. Mercer
+
+
+
+  **Continue Here**
+
+- See
 
 **Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
 
