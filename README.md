@@ -1,5 +1,5 @@
 # Overview
-Vertical Teaming of High School CS Courses
+Vertical Teaming of Online High School CS Courses for Android Development
 
 Five Mandatory Pieces of a Computer Environment for Android Apps
 - Creating and Maintaining a GitHub Account
@@ -155,13 +155,15 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - Dynamic Exemplar points towards creating a button with `mouseClicked()`
 
+**Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
 
+**Creating Buttons and Mouse Interactions**, <a href="">Create this Example, starter and exemplar</a>
 
   **Continue Here**
 
-- See
 
-**Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
+
+
 
 Future Ideas for static & flat programs
 - Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
