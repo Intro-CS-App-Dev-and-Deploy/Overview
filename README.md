@@ -22,6 +22,11 @@ Assignments: introduce GitHub, version control software (and file pathways for p
    - Intermediate CS
    - Advanced CS
 
+What these prompts should illustrate
+- how code will read like a book, probably paragraph
+- how drawing occurs on a coordinate plane but is controlled by "paperfolding"
+- the importance of paper folding and Case Studies in GUI Design
+
 ---
 
 Quick Hyperlinks skipping to below
@@ -157,36 +162,48 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 
 **Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
 
-**Creating Buttons and Mouse Interactions**, <a href="">Create this Example, starter and exemplar</a>
-
-  **Continue Here**
-
-
-
-
-
-Future Ideas for static & flat programs
-- Layering within Measles (sequential code with copy and paste or WHILE Infinite Loop)
-
-Transition to Dynamic with Measles
-- add quit button too
-
-Dynamic Programs
-- Rectangle Applications: Quit Button
-- 3 by 3 home screen
-- drawing program
-- music program
-
----
-
-**Continue Here, in *Draw a Rectangle* h**
+**Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
 - Prototype a button as a rectangle
 - Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
-- See ProtopyingButton.pde and Another Example
-- See https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button
----
 
-Note for all future assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
+**3 x 3 Home Screen**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen">Create this Example, starter and exemplar</a>
+- Create 3 projects ... First two emphasize single-line-IF, Boolean, and IF-Else
+  - Version 1 of Do This Not That
+  - Version 2 of Do This Not That
+- Students to create program illustrating how 9 different buttons interact with each other using different shapes, texts, and images
+
+Note: this is the final assignment or project before the "Final Exam" Projects
+
+**Drawing Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
+- Finish Interactive Drawing Program
+- Include
+  - Labeled Sections of Drawing Program to simulate simple instructions
+  - Rectangle that functions as a canvas, where art happens
+  - Drawing Tool (simple drawing tools have different brush sizes and colours, more advanced drawing tools change way ink is applied)
+  - Erasing Tool (actually optical illusion since draws in the ink of the background)
+  - 2D Shapes, colours, and text are all included above, images are not.
+    - Students are responsible for Images
+    - [OPTIONAL] Image as a background so interaction is like a colouring book
+  - [Minimum Expectation] Add an additional button to include play-pause-rewind of single background song
+  - [Minimum Expectation] Add a sound effect to all buttons on mouse clicked
+
+Finish the Drawing Program, Then the Music Player Program, then return to the Drawing Program and add the music and sound effects
+
+**Music Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
+- Create a Music Player App you might load to your device
+- Prototyping Minim is used to learn the Music Player Minim Library
+  - Prototyping occurs on the keyboard
+  - Once Music Player functions are working, these are transferred by students to Mouse Functions
+- Exemplar Music Player demonstrates a completed music player, by a student (did not earn over 80%)
+- Exemplar MusicPlayer KeyPressed illustrates a completed version of the minimum expectations of the Music Player Library
+  - Illustrates example of organizing music and other files in folders, similar to Webpage-Websites organization and Reference
+- Include
+  - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, repeat-all-songs, and randomize all songs
+    - Note: first 6 buttons will work with only one song
+    - Additional buttons will require more than one song
+  - Sound effect when a button is clicked
+  - Text is printed from any of the Song's meta-data
+  - Images are mandatory but the choice of the student (i.e. artwork from fan pages)
 
 ---
 
