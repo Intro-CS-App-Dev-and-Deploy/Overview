@@ -131,6 +131,9 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
   - Debugging "white space" inside the font to choose a font size based on Display Geometry
 - Develops `String` Variable
 - Develops `rect() parameters` as copy-paste parameters in other Functions
+- Advanced Ideas
+  - Text Input: key-variable, char, String Variable, & Concatenation
+  - Libraries with automatic text input fields
 
 **Drawing an Image**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
