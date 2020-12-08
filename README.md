@@ -148,6 +148,7 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
   - Tracking variable names with alphanumeric system
   - Introduction to arrays (further explored in Intermediate CS)
 - Big Idea: how to create a collage.
+- Advanced Concept: night mode in RGB Colors
 - See Processing.org Tutorials for a *Scary Image* Project
 
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
