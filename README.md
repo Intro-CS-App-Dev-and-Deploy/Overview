@@ -239,6 +239,8 @@ Advanced Enrichment: when more songs are manually added to the "Music Program Fo
 - Discuss all ideas with Mr. Mercer, including an educated guess about time lines and due dates
 - Note: modifying your drawing program or music programs can be a part of this final project
 
+- Final Project Idea included in Music Player Repository: website promotion of Music Player: integrating GitHub Pages, GitHub ReadMe.md, and Version Control, especially Final Version, to share project with friends for sideloading on Android Devices 
+
 ---
 
 # To Include, Intermediate
