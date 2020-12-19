@@ -217,6 +217,8 @@ Unique Concepts are illustrated here that repeat all previous lessons
     - Note: first 6 buttons will work with only one song
     - Additional buttons will require more than one song
     - Note: loop includes "once", "pre-defined number", "infinite", or controlled by variable and `key` or `keyCode` key board interactions
+    - Buttons must be defined by each student, for example, auto-playing
+      - "When current song finishes, automatically play the next song"
   - Sound effect when a button is clicked
   - Text is printed from any of the Song's meta-data (auto-populating and changing String variables)
   - Parsing of time values (int to strings) so "time of song" or "time remaining" can be projected on to the Canvas
