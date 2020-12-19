@@ -216,8 +216,10 @@ Unique Concepts are illustrated here that repeat all previous lessons
   - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, repeat-all-songs, and randomize all songs
     - Note: first 6 buttons will work with only one song
     - Additional buttons will require more than one song
+    - Note: loop includes "once", "pre-defined number", "infinite", or controlled by variable and `key` or `keyCode` key board interactions
   - Sound effect when a button is clicked
   - Text is printed from any of the Song's meta-data (auto-populating and changing String variables)
+  - Parsing of time values (int to strings) so "time of song" or "time remaining" can be projected on to the Canvas
   - Images are mandatory but the choice of the student (i.e. artwork from fan pages)
 
 This project also introduces alphanumeric variables and array data.
