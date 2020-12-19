@@ -171,10 +171,10 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
 
 **3 x 3 Home Screen**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen">Create this Example, starter and exemplar</a>
-- Create 3 projects ... First two emphasize single-line-IF, Boolean, and IF-Else
-  - Version 1 of Do This Not That
-  - Version 2 of Do This Not That
-- Students to create program illustrating how 9 different buttons interact with each other using different shapes, texts, and images
+- Getting Started with 1 or two buttons: create 2 projects emphasizing single-line-IF, Boolean, and IF-Else
+  - Version 1 of Do This Not That: Two Buttons and the surrounding space
+  - Version 2 of Do This Not That: A single Button with similar behaviours as v1
+- Repeating and tracking the Mouse-Click-Boolean-Draw() sequence: create a program illustrating how 9 different buttons interact with each other using different shapes, texts, and images
 
 Note: this is the final assignment or project before the "Final Exam" Projects
 
@@ -191,10 +191,21 @@ Note: this is the final assignment or project before the "Final Exam" Projects
   - [Minimum Expectation] Add an additional button to include play-pause-rewind of single background song
   - [Minimum Expectation] Add a sound effect to all buttons on mouse clicked
 
+Mandatory: exporting program in "Full Screen" for ability to share your drawing program with anyone
+
 Finish the Drawing Program, Then the Music Player Program, then return to the Drawing Program and add the music and sound effects
+
+Unique Concepts are illustrated here that repeat all previous lessons
+- Virtual Paper is the button to draw
+- Virtual Paper is the limit of where the mouse will interact with drawing tools
+- Other buttons develop how the mouse interacts with the virtual paper
+- More buttons provide context like changing the background simulating a colouring book
+- Even more buttons provide a user context, like background music and sound effects
 
 **Music Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
 - Create a Music Player App you might load to your device
+- Project introduces a "Library" and research into different non-native Functions
+  - Exporting Project in GitHub as "Final Version" ensures library and JDK files retained for independent execution
 - Prototyping Minim is used to learn the Music Player Minim Library
   - Prototyping occurs on the keyboard
   - Once Music Player functions are working, these are transferred by students to Mouse Functions
@@ -206,8 +217,23 @@ Finish the Drawing Program, Then the Music Player Program, then return to the Dr
     - Note: first 6 buttons will work with only one song
     - Additional buttons will require more than one song
   - Sound effect when a button is clicked
-  - Text is printed from any of the Song's meta-data
+  - Text is printed from any of the Song's meta-data (auto-populating and changing String variables)
   - Images are mandatory but the choice of the student (i.e. artwork from fan pages)
+
+This project also introduces alphanumeric variables and array data.
+- Emphasized: array index arithmetic allows for button control and drawing-to-canvas of various songs
+
+Enrichment: multi-media is accessed within files contained in the GitHub Project folder
+- Access is very similar to website multi-media
+
+Advanced Enrichment: when more songs are manually added to the "Music Program Folder" a programmed data entry feature allows for array to be automatically changed, instead of relying on a programmer to change code
+- Requirement: Intermediate CS Processing-Java Array Functions changing the originally coded data structure
+- CAUTION: once the program is ended, this data is lost unless .txt Read-Write data functions are enabled (another Intermediate CS Topic)
+
+**Final Project**, <a href="">Click Here when URL is added</a>
+- If you could study anything, what would you build and deploy to an android device?
+- Discuss all ideas with Mr. Mercer, including an educated guess about time lines and due dates
+- Note: modifying your drawing program or music programs can be a part of this final project
 
 ---
 
@@ -215,7 +241,7 @@ Finish the Drawing Program, Then the Music Player Program, then return to the Dr
 - Everything Arrays
 - Screen size checker
 - Text font calculator
-- JSON Data and Weather App with API
+- JSON Data and Weather App with API (Processing-Java interacting with a Website)
 - Tic Tac Toe algorithms with mobility device features
 
 ---
