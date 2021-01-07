@@ -216,7 +216,11 @@ Unique Concepts are illustrated here that repeat all previous lessons
   - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, repeat-all-songs, and randomize all songs
     - Note: first 6 buttons will work with only one song
     - Additional buttons will require more than one song
-    - Note: loop includes "once", "pre-defined number", "infinite", or controlled by variable and `key` or `keyCode` key board interactions
+    - Note: loop includes ... and can be prototyped by unique keys (`key` or `keyCode`)
+      - "once" (repeat-single-song)
+      - "pre-defined number" (repeat-finite-times)
+      - "infinite" (repeat-infinite-times)
+      - repeat-all-songs
     - Buttons must be defined by each student, for example, auto-playing
       - "When current song finishes, automatically play the next song"
   - Sound effect when a button is clicked
@@ -239,7 +243,7 @@ Advanced Enrichment: when more songs are manually added to the "Music Program Fo
 - Discuss all ideas with Mr. Mercer, including an educated guess about time lines and due dates
 - Note: modifying your drawing program or music programs can be a part of this final project
 
-- Final Project Idea included in Music Player Repository: website promotion of Music Player: integrating GitHub Pages, GitHub ReadMe.md, and Version Control, especially Final Version, to share project with friends for sideloading on Android Devices 
+- Final Project Idea included in Music Player Repository: website promotion of Music Player: integrating GitHub Pages, GitHub ReadMe.md, and Version Control, especially Final Version, to share project with friends for sideloading on Android Devices
 
 ---
 
