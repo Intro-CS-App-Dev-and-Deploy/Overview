@@ -77,7 +77,7 @@ Main Project, Android App, review what is possible with Ketai.org
 - List the other interactions this app will have and when these will be available (clean & minimal GUI)
 
 Website Case Studies ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
-- "Who Am I" Website Project
+- "Who Am I" Website Project <a href="https://github.com/QEHS-Websites/Who-Am-I#rubric--expectations"> Click Here <a/>
 - Promotion of Android App: Drawing Program or Music Program
 
 Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
