@@ -1,7 +1,15 @@
 # Overview
 High School Computer Science for Android Development
 
+---
+
 All Links Verified 20220104
+
+---
+
+**Purpose**: Android Device Side Loading: https://github.com/MercersKitchen/Device-Sideloading-Android
+
+---
 
 Table of Contents
 - Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps">Click Here</a>
@@ -21,6 +29,8 @@ Table of Contents
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
 - Final Exam: Music Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program">Click Here</a>
 - Final Exam: Final Project, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
+- Final Exam: Android Side Loading Option, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
+
 
 ---
 
@@ -294,6 +304,10 @@ Advanced Enrichment: when more songs are manually added to the "Music Program Fo
   - Version Control
 
 - Especially Final Version, to share project with friends for sideloading on Android Devices
+
+## Final Exam: Android Side Loading Option
+
+https://github.com/MercersKitchen/Device-Sideloading-Android
 
 ---
 
