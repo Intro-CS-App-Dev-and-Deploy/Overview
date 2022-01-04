@@ -7,7 +7,7 @@ Table of Contents
 - Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps">Click Here</a>
 - Intro: Where Files Live: Cloud or Local, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#where-files-live-cloud-or-local">Click Here</a>
 - Intro: Beginning Activity, How do you save to the Cloud ... <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#beginning-activity-how-do-you-save-to-the-cloud">Click Here</a>
-- , <a href="">Click Here</a>
+- All Assignments Introduction: Paper and Pencil Case Studies, with Image References, <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -67,10 +67,11 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 
 ---
 
-### Introductory CS Case Studies
+# Paper and Pencil Case Studies, with Image References
 
 *IMPORTANT*: You should have the following repositories started in GitHub & GitHub Desktop
   - See: https://github.com/MercersKitchen/Creating-a-GitHub-Repository
+
 1. Hello World & Simple Counting (using formulae)
 2. Composite Images (Snow Globe, Measles, etc.)
 3. 3 by 3 Assignment including random colour with additional text, and images
@@ -88,18 +89,19 @@ Main Project, Android App, review what is possible with Ketai.org
 
 Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 
-Additional Case Studies (what users will see in an example )
-- *Note about submitting Case Studies*:
-  - submit an image of paper and save this into the Repository made for the Project
-  - export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
+*Note about submitting Case Studies*:
+- submit an image of paper or writing surface and save this into the Repository made for the Project
+  - OPTIONAL: save to another cloud and create a link in the ReadMe.md
+- export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
 - Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
 
-### Websites
-https://github.com/QEHS-Websites/Overview
+---
 
-### Computer Apps
+# General Notes about Computer Apps
 
 **Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
+
+---
 
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 - Introduction to Processing-IDE
