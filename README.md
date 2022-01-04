@@ -29,7 +29,7 @@ Table of Contents
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
 - Final Exam: Music Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program">Click Here</a>
 - Final Exam: Final Project, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
-- Final Exam: Android Side Loading Option, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
+- Final Exam: Android Side Loading Option, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option">Click Here</a>
 
 
 ---
