@@ -5,7 +5,7 @@ All Links Verified 20220104
 
 Table of Contents
 - Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps">Click Here</a>
-- , <a href="">Click Here</a>
+- Intro: Where Files Live: Cloud or Local, <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -47,25 +47,7 @@ What these prompts should illustrate
 
 ---
 
-Quick Hyperlinks skipping to below
-- Introductory CS Synchronous Course, Websites, <a href="https://github.com/QEHS-Websites/Overview">Click Here for the detailed progressions and assignments to promote information</a>
-- Introductory CS Synchronous Course, Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click here to skip to below</a>, for the detailed progressions and assignments of an Android Side-loaded App
-
-Various Related Repositories
-1. Webpages and Sites
-   - https://github.com/QEHS-Websites/Overview
-   - https://github.com/MercersKitchen/Webpages-Sites
-   - https://github.com/MercersKitchen/Website-Mentoring
-   - https://github.com/Dev-Outreach/Introduction-Static-HTML
-
-2. Android App Development: Overview Summary of "Vertical Teaming", <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
-   - Ideas coming from: https://github.com/MercersKitchen/Introductory-Computer-Science
-
----
-
-### Preamble Notes
-
-Review Questions utilize Alberta Education's *Diploma Guiding Words*
+# Where Files Live: Cloud or Local
 
 Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
 - **Reading Hint**: notice the difference between `/` & `\`
@@ -275,6 +257,8 @@ Advanced Enrichment: when more songs are manually added to the "Music Program Fo
 ---
 
 # To Include
+
+Previous Course Notes (Old): https://github.com/MercersKitchen/Introductory-Computer-Science
 
 Review Google Drive for coding examples and other ideas
 
