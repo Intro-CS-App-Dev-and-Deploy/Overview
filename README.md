@@ -13,7 +13,7 @@ Table of Contents
 - All Assignments, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-assignments">Click Here</a>
   - Hello World, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#hello-world">Click Here</a>
   - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#divisions-and-the-basic-shape-for-cs-10-in-processing-java">Click Here</a>
-- , <a href="">Click Here</a>
+  - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -153,6 +153,8 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Advanced Ideas
   - Text Input: key-variable, char, String Variable, & Concatenation
   - Libraries with automatic text input fields
+
+## Using `rect()`: Drawing an Image
 
 **Drawing an Image**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
