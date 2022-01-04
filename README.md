@@ -15,7 +15,7 @@ Table of Contents
   - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#divisions-and-the-basic-shape-for-cs-10-in-processing-java">Click Here</a>
   - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
-  - Using `rect()`: Drawing multiple shapes , <a href="">Click Here</a>
+  - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
