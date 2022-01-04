@@ -16,7 +16,7 @@ Table of Contents
   - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
   - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
-- , <a href="">Click Here</a>
+  - Using `rect()`: Creating Buttons and Mouse Interactions, <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -194,7 +194,13 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - Dynamic Exemplar points towards creating a button with `mouseClicked()`
 
+---
+
 **Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
+
+---
+
+## Using `rect()`: Creating Buttons and Mouse Interactions
 
 **Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
 - Prototype a button as a rectangle
