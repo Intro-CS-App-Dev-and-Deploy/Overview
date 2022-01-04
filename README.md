@@ -8,8 +8,9 @@ Table of Contents
 - Intro: Where Files Live: Cloud or Local, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#where-files-live-cloud-or-local">Click Here</a>
 - Intro: Beginning Activity, How do you save to the Cloud ... <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#beginning-activity-how-do-you-save-to-the-cloud">Click Here</a>
 - All Assignments Introduction: Paper and Pencil Case Studies, with Image References, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#paper-and-pencil-case-studies-with-image-references">Click Here</a>
-- , <a href="">Click Here</a>
-- , <a href="">Click Here</a>
+- General Notes about Computer Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#general-notes-about-computer-apps">Click Here</a>
+
+- All Assignments, <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -109,6 +110,8 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 **Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
 
 ---
+
+# All Assignments
 
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 - Introduction to Processing-IDE
