@@ -12,7 +12,7 @@ Table of Contents
 
 - All Assignments, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-assignments">Click Here</a>
   - Hello World, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#hello-world">Click Here</a>
-- , <a href="">Click Here</a>
+  - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -122,6 +122,7 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository, https://github.com/MercersKitchen/Algorithms
 
+## Divisions and The-Basic-Shape for CS-10 in Processing-Java
 **Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
