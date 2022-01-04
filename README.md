@@ -15,7 +15,14 @@ Table of Contents
   - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#divisions-and-the-basic-shape-for-cs-10-in-processing-java">Click Here</a>
   - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
-  - , <a href="">Click Here</a>
+  - Using `rect()`: Drawing multiple shapes , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 
 <a href="">Click Here</a>
@@ -171,6 +178,8 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Big Idea: how to create a collage.
 - Advanced Concept: night mode in RGB Colors
 - See Processing.org Tutorials for a *Scary Image* Project
+
+## Using `rect()`: Drawing multiple shapes
 
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
 - In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, which is the same in 8-bit GUI Design
