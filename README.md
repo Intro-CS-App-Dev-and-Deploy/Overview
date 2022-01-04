@@ -100,9 +100,11 @@ Note for Android Assignments: the following must be drawn "exactly" in a case st
 # General Notes about Computer Apps
 - Grading should occur through,
   - Classroom Demonstration
-  - Video Demonstration
-  - GitHub "Final App" Execution
-  - CAUTION: Mr. Mercer's computer may not run like your computer. Your app my appear or behave differently, influencing your grade.
+  - Video Demonstration: submit a video of you using and talking about the features of your app
+  - GitHub "Final App" Execution: Mr. Mercer plays with it
+  - CAUTION: Be careful about how you submit your computer app. Mr. Mercer's computer may not run like your computer. Your app my appear or behave differently, influencing your grade.
+
+It is best if you demonstrate to Mr. Mercer so questions and answers can happen. Talking about your journey and "To Do List" improves your grade.
 
 **Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
 
