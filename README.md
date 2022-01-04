@@ -17,7 +17,7 @@ Table of Contents
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
   - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
   - Using `rect()`: Creating Buttons and Mouse Interactions, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-creating-buttons-and-mouse-interactions">Click Here</a>
-  - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="">Click Here</a>
+  - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
