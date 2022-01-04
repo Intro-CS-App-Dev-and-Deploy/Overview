@@ -1,11 +1,31 @@
 # Overview
-Vertical Teaming of Online High School CS Courses for Android Development
+High School Computer Science for Android Development
 
-Five Mandatory Pieces of a Computer Environment for Android Apps
+All Links Verified 20220104
+
+Table of Contents
+- Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+- , <a href="">Click Here</a>
+
+<a href="">Click Here</a>
+
+---
+
+# Five Mandatory Pieces of a Computer Environment for Android Apps
 - Creating and Maintaining a GitHub Account
-  - External Documentation for a Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Creating%20a%20GitHub%20Repository#general-introduction-to-creating-a-github-repository-and-readmemd-file-1">Click Here</a>
+  - Creating a GitHub Repository, <a href="https://github.com/MercersKitchen/Creating-a-GitHub-Repository">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance"></a>
+  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects"></a>
 - Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
 - Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
   - Here: https://processing.org/
