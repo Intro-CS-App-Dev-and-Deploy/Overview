@@ -123,8 +123,9 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - See Algorithms Repository, https://github.com/MercersKitchen/Algorithms
 
 ## Divisions and The-Basic-Shape for CS-10 in Processing-Java
+
 **Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example, starter and exemplar</a>
-- Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
+- Purpose: using `rect()` parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
 - CAUTION: might start with pixel numbers related to size() as if on a modified coordinate plane, BUT, ratios are better (see paperfolding lesson by Mr. Mercer)
   - similar to DIV's in website design
@@ -134,6 +135,9 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - See Processing.org for additional parameters like opacity
 - Note about learning the hard way: video explores typing and reading in code, what different parameters to, and curiosity in prototyping a section of code
 - Note about primitive-version-control: these are "snapshots" of what coding a prototype might look like
+
+## Using `rect()`: Drawing Text
+- **Note**: Processing-Java draws text, not typing. Subtle difference.
 
 **Drawing Text**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Text">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
