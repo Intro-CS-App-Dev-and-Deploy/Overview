@@ -7,7 +7,7 @@ Table of Contents
 - Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps">Click Here</a>
 - Intro: Where Files Live: Cloud or Local, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#where-files-live-cloud-or-local">Click Here</a>
 - Intro: Beginning Activity, How do you save to the Cloud ... <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#beginning-activity-how-do-you-save-to-the-cloud">Click Here</a>
-- All Assignments Introduction: Paper and Pencil Case Studies, with Image References, <a href="">Click Here</a>
+- All Assignments Introduction: Paper and Pencil Case Studies, with Image References, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#paper-and-pencil-case-studies-with-image-references">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -98,6 +98,11 @@ Note for Android Assignments: the following must be drawn "exactly" in a case st
 ---
 
 # General Notes about Computer Apps
+- Grading should occur through,
+  - Classroom Demonstration
+  - Video Demonstration
+  - GitHub "Final App" Execution
+  - CAUTION: Mr. Mercer's computer may not run like your computer. Your app my appear or behave differently, influencing your grade.
 
 **Note**: assignments start with Flat and Static Programs, progressing to dynamic and introducing Intermediate CS (non-flat)
 
