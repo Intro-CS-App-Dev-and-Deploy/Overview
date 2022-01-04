@@ -10,7 +10,7 @@ Table of Contents
 - All Assignments Introduction: Paper and Pencil Case Studies, with Image References, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#paper-and-pencil-case-studies-with-image-references">Click Here</a>
 - General Notes about Computer Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#general-notes-about-computer-apps">Click Here</a>
 
-- All Assignments, <a href="">Click Here</a>
+- All Assignments, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#all-assignments">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
