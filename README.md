@@ -17,7 +17,7 @@ Table of Contents
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
   - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
   - Using `rect()`: Creating Buttons and Mouse Interactions, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-creating-buttons-and-mouse-interactions">Click Here</a>
-- , <a href="">Click Here</a>
+  - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
@@ -205,6 +205,9 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 **Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
 - Prototype a button as a rectangle
 - Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
+
+## Practice Makes Better: Repeating Buttons and Mouse Interactions
+- Completing this assignment makes the drawing program and music program attainable
 
 **3 x 3 Home Screen**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen">Create this Example, starter and exemplar</a>
 - Getting Started with 1 or two buttons: create 2 projects emphasizing single-line-IF, Boolean, and IF-Else
