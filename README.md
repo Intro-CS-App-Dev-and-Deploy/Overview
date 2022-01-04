@@ -20,7 +20,7 @@ Table of Contents
   - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
 - Final Exam: Music Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program">Click Here</a>
-- Final Exam: Final Project, <a href="">Click Here</a>
+- Final Exam: Final Project, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
 
 ---
 
