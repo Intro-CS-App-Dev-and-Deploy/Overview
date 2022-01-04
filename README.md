@@ -20,6 +20,7 @@ Table of Contents
   - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
 - Final Exam: Music Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program">Click Here</a>
+- Final Exam: Final Project, <a href="">Click Here</a>
 
 ---
 
@@ -278,6 +279,8 @@ Enrichment: multi-media is accessed within files contained in the GitHub Project
 Advanced Enrichment: when more songs are manually added to the "Music Program Folder" a programmed data entry feature allows for array to be automatically changed, instead of relying on a programmer to change code
 - Requirement: Intermediate CS Processing-Java Array Functions changing the originally coded data structure
 - CAUTION: once the program is ended, this data is lost unless .txt Read-Write data functions are enabled (another Intermediate CS Topic)
+
+## Final Exam: Optional Final Project
 
 **Final Project**, <a href="">Click Here when URL is added</a>
 - If you could study anything, what would you build and deploy to an android device?
