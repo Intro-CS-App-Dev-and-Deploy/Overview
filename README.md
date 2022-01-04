@@ -112,7 +112,9 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 ---
 
 # All Assignments
+- Refer to Algorithms for all Assignments: https://github.com/MercersKitchen/Algorithms
 
+## Hello World
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
