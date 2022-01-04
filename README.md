@@ -4,7 +4,7 @@ High School Computer Science for Android Development
 All Links Verified 20220104
 
 Table of Contents
-- Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="">Click Here</a>
+- Intro: Five Mandatory Pieces of a Computer Environment for Android Apps, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#five-mandatory-pieces-of-a-computer-environment-for-android-apps">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
 - , <a href="">Click Here</a>
