@@ -65,9 +65,18 @@ Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cl
 - How far does data travel with every saving of code?
 - What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
+---
+
 ### Introductory CS Case Studies
 
-*IMPORTANT*: You should have 9 repositories started in GitHub & GitHub Desktop
+*IMPORTANT*: You should have the following repositories started in GitHub & GitHub Desktop
+  - See: https://github.com/MercersKitchen/Creating-a-GitHub-Repository
+1. Hello World & Simple Counting (using formulae)
+2. Composite Images (Snow Globe, Measles, etc.)
+3. 3 by 3 Assignment including random colour with additional text, and images
+4. Drawing Program (including background song and sound effects using mouse)
+5. Music Program (including sound effects using key board and mouse)
+6. Final Project: using Ketai Library
 
 Main Project, Android App, review what is possible with Ketai.org
 - "Design a cell phone app for your main project" that will first run as a fullScreen() computer app
@@ -77,10 +86,6 @@ Main Project, Android App, review what is possible with Ketai.org
 - What will your touch screen and physical buttons be doing
 - List the other interactions this app will have and when these will be available (clean & minimal GUI)
 
-Website Case Studies ("How do you convince another person, by reading a single page, your digital identity or app created is worth reading or using further?")
-- "Who Am I" Website Project <a href="https://github.com/QEHS-Websites/Who-Am-I#rubric--expectations"> Click Here <a/>
-- Promotion of Android App: Drawing Program or Music Program
-
 Note for Android Assignments: the following must be drawn "exactly" in a case study (i.e. 1/2, 1/4, 1/5, etc.), then appear in canvas "exactly"
 
 Additional Case Studies (what users will see in an example )
@@ -88,12 +93,6 @@ Additional Case Studies (what users will see in an example )
   - submit an image of paper and save this into the Repository made for the Project
   - export file from program, to be saved in Repository (i.e. MS Paint's .bitmap)
 - Any additional notes you have should be entered into the ReadMe.md file through Atom.io using <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">GitHub Markdown</a>
-1. Hello World & Simple Counting (using formulae)
-2. Composite Images (Snow Globe, Measles, etc.)
-3. 3 by 3 Assignment including random colour with additional text, and images
-4. Drawing Program (including background song and sound effects using mouse)
-5. Music Program (including sound effects using key board and mouse)
-6. Final Project: using Ketai Library
 
 ### Websites
 https://github.com/QEHS-Websites/Overview
