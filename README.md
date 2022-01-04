@@ -37,10 +37,8 @@ Assignments: introduce GitHub, version control software (and file pathways for p
 2. Create a new repository, share it with Mr. Mercer by email (email URL), and modify the ReadMe.md file with Case Study ideas
    - OPTION: use GitHub Classroom
    - NOTE: you should take some time and explore GitHub Classroom (lots of free stuff to explore)
-3. Create new repositories for each of the Case Studies listed below
-   - Introductory CS: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>)
-   - Intermediate CS
-   - Advanced CS
+3. Create new repositories for each of the Case Studies listed below,
+<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#introductory-cs-case-studies">here</a>
 
 What these prompts should illustrate
 - how code will read like a book, probably paragraph
