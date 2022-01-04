@@ -215,7 +215,13 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
   - Version 2 of Do This Not That: A single Button with similar behaviours as v1
 - Repeating and tracking the Mouse-Click-Boolean-Draw() sequence: create a program illustrating how 9 different buttons interact with each other using different shapes, texts, and images
 
-Note: this is the final assignment or project before the "Final Exam" Projects
+---
+
+**Note**: this is the final assignment or project before the "Final Exam" Projects
+
+---
+
+## Final Exam: Drawing Program
 
 **Drawing Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
 - Finish Interactive Drawing Program
@@ -240,6 +246,8 @@ Unique Concepts are illustrated here that repeat all previous lessons
 - Other buttons develop how the mouse interacts with the virtual paper
 - More buttons provide context like changing the background simulating a colouring book
 - Even more buttons provide a user context, like background music and sound effects
+
+## Final Exam: Music Program
 
 **Music Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
 - Create a Music Player App you might load to your device
