@@ -38,7 +38,8 @@ Table of Contents
 - Creating and Maintaining a GitHub Account
   - Creating a GitHub Repository, <a href="https://github.com/MercersKitchen/Creating-a-GitHub-Repository">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects"></a>
+  - Ideas for creating a presentation or video, <a herf="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects">Click Here, might not work</a>
+  - Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
 - Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
 - Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
   - Here: https://processing.org/
