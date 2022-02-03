@@ -35,6 +35,7 @@ Table of Contents
 ---
 
 # Five Mandatory Pieces of a Computer Environment for Android Apps
+- Ensure you can see file extensions: View / [Checkbox] Show File Extensions
 - Creating and Maintaining a GitHub Account
   - Creating a GitHub Repository, <a href="https://github.com/MercersKitchen/Creating-a-GitHub-Repository">Click Here</a>
   - Using Markdown, <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
