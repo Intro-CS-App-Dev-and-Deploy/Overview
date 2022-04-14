@@ -127,6 +127,8 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 
 # All Assignments
 - Refer to Algorithms for all Assignments: https://github.com/MercersKitchen/Algorithms
+- Refer to this ReadMe.md file for all CS10 Processing-JAVA introductions and connections to Advanced Placement
+  - See: https://github.com/Intro-CS-App-Dev-and-Deploy/Introductory-CS-Processing-JAVA-and-Advanced-Placement
 
 ## Hello World
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
