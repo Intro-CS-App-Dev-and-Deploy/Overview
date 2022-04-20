@@ -219,6 +219,9 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - Completing this assignment makes the drawing program and music program attainable
 
 **3 x 3 Home Screen**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen">Create this Example, starter and exemplar</a>
+- Note: Google Search " Home Screen Cell Phone"
+
+Explanation:
 - Getting Started with 1 or two buttons: create 2 projects emphasizing single-line-IF, Boolean, and IF-Else
   - Version 1 of Do This Not That: Two Buttons and the surrounding space
   - Version 2 of Do This Not That: A single Button with similar behaviours as v1
