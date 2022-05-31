@@ -272,7 +272,7 @@ Unique Concepts are illustrated here that repeat all previous lessons
 - Exemplar MusicPlayer KeyPressed illustrates a completed version of the minimum expectations of the Music Player Library
   - Illustrates example of organizing music and other files in folders, similar to Webpage-Websites organization and Reference
 - Include
-  - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, repeat-all-songs, and randomize all songs
+  - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, shuffle, repeat-all-songs, and randomize all songs
     - Note: first 6 buttons will work with only one song
     - Additional buttons will require more than one song
     - Note: loop includes ... and can be prototyped by unique keys (`key` or `keyCode`)
@@ -280,6 +280,7 @@ Unique Concepts are illustrated here that repeat all previous lessons
       - "pre-defined number" (repeat-finite-times)
       - "infinite" (repeat-infinite-times)
       - repeat-all-songs
+      - Note: reference the Minim Documentation: https://code.compartmental.net/minim/audioplayer_method_loop.html
     - Buttons must be defined by each student, for example, auto-playing
       - "When current song finishes, automatically play the next song"
   - Sound effect when a button is clicked
