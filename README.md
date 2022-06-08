@@ -298,6 +298,38 @@ Advanced Enrichment: when more songs are manually added to the "Music Program Fo
 - Requirement: Intermediate CS Processing-Java Array Functions changing the originally coded data structure
 - CAUTION: once the program is ended, this data is lost unless .txt Read-Write data functions are enabled (another Intermediate CS Topic)
 
+---
+
+Specific Features that will be graded at 65% if copied
+
+Song Meta Data: Display in the CANVAS the title of the song
+
+Play-Pause:
+- Pause: self-explanatory
+- Play from where we left off, we are in the song
+- End of Song: if listened to 80% of song, we are at the end of the song so rewind it
+
+Looping Songs: using number keys
+- Loop Once, then Play one last time
+- Loop 9 Times, then Play one last time
+- Loop an Infinite number of times
+- Intermediate: CATCH all other number keys and tell user they don't work
+- Advanced: casting strongly formatted variables
+
+Mute Button
+
+Fast Forward 1 second
+Fast Rewind 1 second
+
+Stop Button
+
+Next Button:
+- "Starting all songs by getting into them"
+- Automatic Play Button
+
+Back Button: Student Assignment
+
+
 ## Final Exam: Optional Final Project
 
 **Final Project**, <a href="">Click Here when URL is added</a>
