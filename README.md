@@ -310,8 +310,8 @@ Play-Pause:
 - End of Song: if listened to 80% of song, we are at the end of the song so rewind it
 
 Looping Songs: using number keys
-- Loop Once, then Play one last time
-- Loop 9 Times, then Play one last time
+- Loop Once, then Play one last time (actually means play twice)
+- Loop 9 Times, then Play one last time (actually means play ten times)
 - Loop an Infinite number of times
 - Intermediate: CATCH all other number keys and tell user they don't work
 - Advanced: casting strongly formatted variables
@@ -319,16 +319,28 @@ Looping Songs: using number keys
 Mute Button
 
 Fast Forward 1 second
+
 Fast Rewind 1 second
 
 Stop Button
 
 Next Button:
-- "Starting all songs by getting into them"
+- "Starting all songs by getting into them" (actually means we start every song at the beginning of the song)
 - Automatic Play Button
 
 Back Button: Student Assignment
 
+---
+
+How to Get more than 65%
+- Include more meta data, current song specific
+- different definitions of the above buttons
+
+Adding more buttons (either your own creation or copying buttons I have not reviewed from my notes)
+- Wave Forms
+- Set Loops Points
+- Randomize the entire play list
+- Repeat the entire play list
 
 ## Final Exam: Optional Final Project
 
