@@ -262,6 +262,8 @@ Unique Concepts are illustrated here that repeat all previous lessons
 ## Final Exam: Music Program
 
 **Music Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
+
+#### Introduction
 - Create a Music Player App you might load to your device
 - Project introduces a "Library" and research into different non-native Functions
   - Exporting Project in GitHub as "Final Version" ensures library and JDK files retained for independent execution
@@ -271,34 +273,54 @@ Unique Concepts are illustrated here that repeat all previous lessons
 - Exemplar Music Player demonstrates a completed music player, by a student (did not earn over 80%)
 - Exemplar MusicPlayer KeyPressed illustrates a completed version of the minimum expectations of the Music Player Library
   - Illustrates example of organizing music and other files in folders, similar to Webpage-Websites organization and Reference
-- Include
-  - GUI with minimum 7 buttons: play, pause, stop, forward, reverse, loop, next, back, shuffle, repeat-all-songs, and randomize all songs
-    - Note: first 6 buttons will work with only one song
-    - Additional buttons will require more than one song
-    - Note: loop includes ... and can be prototyped by unique keys (`key` or `keyCode`)
-      - "once" (repeat-single-song)
-      - "pre-defined number" (repeat-finite-times)
-      - "infinite" (repeat-infinite-times)
-      - repeat-all-songs
-      - Note: reference the Minim Documentation: https://code.compartmental.net/minim/audioplayer_method_loop.html
-    - Buttons must be defined by each student, for example, auto-playing
-      - "When current song finishes, automatically play the next song"
-  - Sound effect when a button is clicked
-  - Text is printed from any of the Song's meta-data (auto-populating and changing String variables)
-  - Parsing of time values (int to strings) so "time of song" or "time remaining" can be projected on to the Canvas
-  - Images are mandatory but the choice of the student (i.e. artwork from fan pages)
+- Note: reference the Minim Documentation: https://code.compartmental.net/minim/audioplayer_method_loop.html
 
-This project also introduces alphanumeric variables and array data.
-- Emphasized: array index arithmetic allows for button control and drawing-to-canvas of various songs
+#### Unique Minim Library Functions: used to create all Music Player Buttons and Features
+- .play() //Parameter is start of file in milliseconds, null is beginning of file
+- .loop() //Parameter is number of repeats, then song plays one last time, null is infinite
+- .isMuted()
+- .mute()
+- .unmute()
+- .skip(1000); // Parameter is +- milliseconds
+- .position()
+- .length()
+- .pause()
+- .rewind()
+- .title()
 
-Enrichment: multi-media is accessed within files contained in the GitHub Project folder
-- Access is very similar to website multi-media
+- Additional Meta Data Functions
+  - .fileName()
+  - .length()
+  - .author()
+  - .composer()
+  - .orchestra()
+  - .album()
+  - .disc()
+  - .publisher()
+  - .date()
+  - .copyright()
+  - .comment()
+  - .lyrics()
+  - .track()
+  - .genre()
+  - .encoded() //how a computer reads the file
 
-Advanced Enrichment: when more songs are manually added to the "Music Program Folder" a programmed data entry feature allows for array to be automatically changed, instead of relying on a programmer to change code
-- Requirement: Intermediate CS Processing-Java Array Functions changing the originally coded data structure
-- CAUTION: once the program is ended, this data is lost unless .txt Read-Write data functions are enabled (another Intermediate CS Topic)
+#### Algorithms
+- Sequential Coding: how to order
+- Decisions
+  - IF with body
+  - IF-Else
+  - If-ElseIf-Else
+- Combinations with Main Program: draw(), mousePressed(), etc.
 
----
+#### Music Player Features Summary
+- GUI with minimum 7 buttons
+- Sound effect when a button is clicked
+- Text is printed from any of the Song's meta-data (auto-populating and changing String variables)
+- Parsing of time values (int to strings) so "time of song" or "time remaining" can be projected on to the Canvas
+- Images are mandatory but the choice of the student (i.e. artwork from fan pages)
+
+### Specific Music Player Features
 
 Specific Features that will be graded at 65% if copied
 
@@ -335,12 +357,25 @@ Back Button: Student Assignment
 How to Get more than 65%
 - Include more meta data, current song specific
 - different definitions of the above buttons
+  - for example, auto play: "when current song finishes, automatically play the next song"
 
 Adding more buttons (either your own creation or copying buttons I have not reviewed from my notes)
 - Wave Forms
 - Set Loops Points
 - Randomize the entire play list
 - Repeat the entire play list
+
+---
+
+This project also introduces alphanumeric variables and array data.
+- Emphasized: array index arithmetic allows for button control and drawing-to-canvas of various songs
+
+Enrichment: multi-media is accessed within files contained in the GitHub Project folder
+- Access is very similar to website multi-media
+
+Advanced Enrichment: when more songs are manually added to the "Music Program Folder" a programmed data entry feature allows for array to be automatically changed, instead of relying on a programmer to change code
+- Requirement: Intermediate CS Processing-Java Array Functions changing the originally coded data structure
+- CAUTION: once the program is ended, this data is lost unless .txt Read-Write data functions are enabled (another Intermediate CS Topic)
 
 ---
 
