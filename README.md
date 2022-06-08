@@ -342,6 +342,8 @@ Adding more buttons (either your own creation or copying buttons I have not revi
 - Randomize the entire play list
 - Repeat the entire play list
 
+---
+
 ## Final Exam: Optional Final Project
 
 **Final Project**, <a href="">Click Here when URL is added</a>
