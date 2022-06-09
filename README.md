@@ -273,7 +273,7 @@ Unique Concepts are illustrated here that repeat all previous lessons
 - Exemplar Music Player demonstrates a completed music player, by a student (did not earn over 80%)
 - Exemplar MusicPlayer KeyPressed illustrates a completed version of the minimum expectations of the Music Player Library
   - Illustrates example of organizing music and other files in folders, similar to Webpage-Websites organization and Reference
-- Note: reference the Minim Documentation: https://code.compartmental.net/minim/audioplayer_method_loop.html
+- Note: reference the Minim Documentation: https://code.compartmental.net/minim/
 
 #### Unique Minim Library Functions: used to create all Music Player Buttons and Features
 - .play() //Parameter is start of file in milliseconds, null is beginning of file
