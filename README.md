@@ -236,6 +236,8 @@ Explanation:
 ## Final Exam: Drawing Program
 
 **Drawing Program, Final Exam Project**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/App-Development">Click Here for Information, starter codes, examples, and additional help</a>
+
+#### Introduction
 - Finish Interactive Drawing Program
 - Include
   - Labeled Sections of Drawing Program to simulate simple instructions
@@ -277,6 +279,7 @@ Unique Concepts are illustrated here that repeat all previous lessons
 
 #### Unique Minim Library Functions: used to create all Music Player Buttons and Features
 - .play() //Parameter is start of file in milliseconds, null is beginning of file
+- .isPlaying() //Boolean
 - .loop() //Parameter is number of repeats, then song plays one last time, null is infinite
 - .isMuted()
 - .mute()
@@ -286,7 +289,7 @@ Unique Concepts are illustrated here that repeat all previous lessons
 - .length()
 - .pause()
 - .rewind()
-- .title()
+- .title() //Meta Data Example
 
 - Additional Meta Data Functions
   - .fileName()
