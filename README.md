@@ -31,7 +31,6 @@ Table of Contents
 - Final Exam: Final Project, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
 - Final Exam: Android Side Loading Option, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option">Click Here</a>
 
-
 ---
 
 # Five Mandatory Pieces of a Computer Environment for Android Apps
@@ -44,7 +43,7 @@ Table of Contents
 - Creating and Maintaining a LinkedIn Account, connecting to others (must be at least 16 years old), see the website and start a profile (students will focus on )
 - Downloading and Inflating Processing on the parent folder of the C-Drive (Mr. Mercer will help with this)
   - Here: https://processing.org/
-- Downloading and Installing Atom.io, here, https://atom.io/
+- Downloading and Installing Microsoft Visual Code Studio, here, https://code.visualstudio.com/download
 - Downloading and Installing GitHub Desktop (i.e. version control software), https://desktop.github.com/
 
 Assignments: introduce GitHub, version control software (and file pathways for prototyping), integrating App Development with Websites and Promotion ("Where do files live?")
@@ -59,26 +58,6 @@ What these prompts should illustrate
 - how code will read like a book, probably paragraph
 - how drawing occurs on a coordinate plane but is controlled by "paperfolding"
 - the importance of paper folding and Case Studies in GUI Design
-
----
-
-# Where Files Live: Cloud or Local
-
-Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
-- **Reading Hint**: notice the difference between `/` & `\`
-- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
-- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
-- Instructions: File / Save
-
----
-
-# Beginning Activity: How do you save to the Cloud
-- Note: using Command Line and associated tools will occur in CS-20
-
-Scavenger hunt: how do personal networks work (desktop), and WANs (desktop to cloud)
-- Where are GitHub Servers? Which countries and locations?
-- How far does data travel with every saving of code?
-- What would it mean to have a GitHub server in your home? (permissions and physical data updating)
 
 ---
 
