@@ -109,11 +109,12 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 - Refer to this ReadMe.md file for all CS10 Processing-JAVA introductions and connections to Advanced Placement
   - See: https://github.com/Intro-CS-App-Dev-and-Deploy/Introductory-CS-Processing-JAVA-and-Advanced-Placement
 
-## Hello World
+## Hello World & the Canvas
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
+- developing concepts of Display Geometry (Landscape, Portrait, and Square), then making the app fail if another display is used
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository, https://github.com/MercersKitchen/Algorithms
 
