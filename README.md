@@ -206,6 +206,8 @@ Explanation:
   - Version 2 of Do This Not That: A single Button with similar behaviours as v1
 - Repeating and tracking the Mouse-Click-Boolean-Draw() sequence: create a program illustrating how 9 different buttons interact with each other using different shapes, texts, and images
 
+Student Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Assignment-Wheres-Waldo
+
 ---
 
 **Note**: this is the final assignment or project before the "Final Exam" Projects
