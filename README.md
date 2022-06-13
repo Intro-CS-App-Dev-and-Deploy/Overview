@@ -115,6 +115,7 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
 - developing concepts of Display Geometry (Landscape, Portrait, and Square), then making the app fail if another display is used
+- if using size, must test if it will fit on display, otherwise, must use fullScreen()
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository, https://github.com/MercersKitchen/Algorithms
 
