@@ -112,9 +112,15 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 ## Hello World & the Canvas
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 
-#### Problem: How do you code to an unknown display?
+#### Problem
+
+How do you code to an unknown display?
 
 #### Solution
+
+From Processing-Java: key variables width, height, displayWidth, and displayHeight 
+
+From Mathematics: ratios, fractions, and paperfolding
 
 #### Details
 - Introduction to Processing-IDE
