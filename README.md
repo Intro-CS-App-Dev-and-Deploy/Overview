@@ -118,7 +118,10 @@ How do you code to an unknown display?
 
 #### Solution
 
-From Processing-Java: key variables width, height, displayWidth, and displayHeight 
+From Processing-Java
+- key variables width, height, displayWidth, and displayHeight 
+- size()
+- fullScreen()
 
 From Mathematics: ratios, fractions, and paperfolding
 
@@ -130,6 +133,8 @@ From Mathematics: ratios, fractions, and paperfolding
 - if using size, must test if it will fit on display, otherwise, must use fullScreen()
 - "Additions: what else would you put on in the console to tell the world using \t and other character escapes"\
 - See Algorithms Repository, https://github.com/MercersKitchen/Algorithms
+
+---
 
 ## Divisions and The-Basic-Shape for CS-10 in Processing-Java
 
