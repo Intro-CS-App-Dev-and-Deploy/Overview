@@ -122,7 +122,7 @@ From Processing-Java: key variables width, height, displayWidth, and displayHeig
 
 From Mathematics: ratios, fractions, and paperfolding
 
-#### Details
+### Details
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
