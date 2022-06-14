@@ -113,15 +113,19 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 
 #### Problem
-
 How do you code to an unknown display?
 
-#### Solution
+#### Computational Thinking
+- The size() might be bigger than the display you are using, thus must decrease it automatically in groups of 100 pixels (decremental series)
+- The orientation of the display may be different than what is planned, change and center the CANVAS automatically 
+- Note: the place to start counting in the CANVAS is the CENTER of the display
 
-From Processing-Java
+From Processing-Java, we being with
 - key variables width, height, displayWidth, and displayHeight 
 - size()
 - fullScreen()
+- Single Line IFs
+- Initial Code goes in setup() and updated code (i.e. using a tablet) goes in draw()
 
 From Mathematics: ratios, fractions, and paperfolding
 
@@ -138,6 +142,15 @@ From Mathematics: ratios, fractions, and paperfolding
 
 ## Divisions and The-Basic-Shape for CS-10 in Processing-Java
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example, starter and exemplar</a>
 - Purpose: using `rect()` parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
@@ -150,9 +163,20 @@ From Mathematics: ratios, fractions, and paperfolding
 - Note about learning the hard way: video explores typing and reading in code, what different parameters to, and curiosity in prototyping a section of code
 - Note about primitive-version-control: these are "snapshots" of what coding a prototype might look like
 
+--- 
+
 ## Using `rect()`: Drawing Text
 - **Note**: Processing-Java draws text, not typing. Subtle difference.
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **Drawing Text**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Text">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
@@ -168,8 +192,19 @@ From Mathematics: ratios, fractions, and paperfolding
   - Text Input: key-variable, char, String Variable, & Concatenation
   - Libraries with automatic text input fields
 
+---
+
 ## Using `rect()`: Drawing an Image
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **Drawing an Image**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image">Create this Example, starter and exemplar</a>
 - Purpose: using rect() parameters as variables in "divisions of page" metaphor leading to advanced Geometry Ratios, buttons, text, and images code
 - Exemplar is static and flat (comments will point toward dynamic sections)
@@ -186,8 +221,19 @@ From Mathematics: ratios, fractions, and paperfolding
 - Advanced Concept: night mode in RGB Colors
 - See Processing.org Tutorials for a *Scary Image* Project
 
+---
+
 ## Using `rect()`: Drawing multiple shapes
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
 - In Junior High Math Class, composite shapes describe combinations of 2D Primitive Shapes, which is the same in 8-bit GUI Design
 - Purpose: Learn parameters can be formulae based on geometry ratios or other variables
@@ -209,13 +255,33 @@ From Mathematics: ratios, fractions, and paperfolding
 
 ## Using `rect()`: Creating Buttons and Mouse Interactions
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
 - Prototype a button as a rectangle
 - Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
 
+---
+
 ## Practice Makes Better: Repeating Buttons and Mouse Interactions
 - Completing this assignment makes the drawing program and music program attainable
 
+#### Problem
+
+#### Computational Thinking
+
+From Processing-Java, we being with
+
+From Mathematics: 
+
+### Details
 **3 x 3 Home Screen**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/3x3-Home-Screen">Create this Example, starter and exemplar</a>
 - Note: Google Search " Home Screen Cell Phone"
 
