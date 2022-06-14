@@ -176,13 +176,8 @@ From Mathematics: we are using partial answers as variables and then doing more 
 ## Using `rect()`: Drawing Text
 - **Note**: Processing-Java draws text, not typing. Subtle difference.
 
-#### Problem
-
-#### Computational Thinking
-
-From Processing-Java, we being with
-
-From Mathematics: 
+#### Problem & Computational Thinking
+Starting with a rect() draw text
 
 ### Details
 **Drawing Text**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Text">Create this Example, starter and exemplar</a>
@@ -204,13 +199,8 @@ From Mathematics:
 
 ## Using `rect()`: Drawing an Image
 
-#### Problem
-
-#### Computational Thinking
-
-From Processing-Java, we being with
-
-From Mathematics: 
+#### Problem & Computational Thinking
+starting with a rect(), draw an image
 
 ### Details
 **Drawing an Image**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Image">Create this Example, starter and exemplar</a>
@@ -233,13 +223,8 @@ From Mathematics:
 
 ## Using `rect()`: Drawing multiple shapes
 
-#### Problem
-
-#### Computational Thinking
-
-From Processing-Java, we being with
-
-From Mathematics: 
+#### Problem & Computational Thinking
+Starting with a rect(), draw multiple shapes 
 
 ### Details
 **Composite Shapes**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Composite-Shapes">Create this Example, starter and exemplar</a>
@@ -264,6 +249,7 @@ From Mathematics:
 ## Using `rect()`: Creating Buttons and Mouse Interactions
 
 #### Problem
+How do you create buttons in Processing-Java 
 
 #### Computational Thinking
 
@@ -282,6 +268,7 @@ From Mathematics:
 - Completing this assignment makes the drawing program and music program attainable
 
 #### Problem
+How do you narrate a story using multiple buttons on one screen
 
 #### Computational Thinking
 
