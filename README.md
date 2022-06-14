@@ -143,12 +143,20 @@ From Mathematics: ratios, fractions, and paperfolding
 ## Divisions and The-Basic-Shape for CS-10 in Processing-Java
 
 #### Problem
+Starting with a Case Study, lay out all the divisions of the app's space. This becomes variables that can be referenced anytime in a program.
+
+A list of variables and it's current value is called a HEAP Sheet.
+
+Note, if there are multiple screens, multiple case studies should exist.
+- see https://www.youtube.com/watch?v=JMjozqJS44M
 
 #### Computational Thinking
 
 From Processing-Java, we being with
+- rect() with parameters uniquely named
+- population starts with the center of the screen
 
-From Mathematics: 
+From Mathematics: we are using partial answers as variables and then doing more arithmetic 
 
 ### Details
 **Drawing a Rectangle**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Drawing-a-Rectangle">Create this Example, starter and exemplar</a>
