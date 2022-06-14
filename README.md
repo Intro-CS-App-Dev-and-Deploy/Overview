@@ -112,11 +112,11 @@ It is best if you demonstrate to Mr. Mercer so questions and answers can happen.
 ## Hello World & the Canvas
 Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World">Create this Example, starter and exemplar</a>
 
-### Problem: How do you code to an unknown display?
+#### Problem: How do you code to an unknown display?
 
-### Solution
+#### Solution
 
-### Details
+#### Details
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
 - introductions to primitive variables, and simple counting formulae (i.e. x+1 to x++ to x+=1)
