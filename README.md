@@ -129,6 +129,10 @@ From Processing-Java, we being with
 
 From Mathematics: ratios, fractions, and paperfolding
 
+Easiest Algorithm: make the app break when the wrong display orientation is attempted 
+
+More difficult Algorithm: fix the app for the user 
+
 ### Details
 - Introduction to Processing-IDE
 - getting to know the console with print("\n") and println()
