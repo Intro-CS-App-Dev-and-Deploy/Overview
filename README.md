@@ -115,6 +115,8 @@ Using Processing-JAVA, **Hello World**, <a href="https://github.com/Intro-CS-App
 #### Problem
 How do you code to an unknown display?
 
+How do you know the different variables mean? Their values?
+
 #### Computational Thinking
 - The size() might be bigger than the display you are using, thus must decrease it automatically in groups of 100 pixels (decremental series)
 - The orientation of the display may be different than what is planned, change and center the CANVAS automatically 
