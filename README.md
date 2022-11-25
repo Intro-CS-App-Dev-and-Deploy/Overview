@@ -23,9 +23,9 @@ Table of Contents
   - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#divisions-and-the-basic-shape-for-cs-10-in-processing-java">Click Here</a>
   - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
-  - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
   - Using `rect()`: Creating Buttons and Mouse Interactions, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-creating-buttons-and-mouse-interactions">Click Here</a>
-  - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
+  - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
+    - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
 - Final Exam: Music Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program">Click Here</a>
 - Final Exam: Final Project, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project">Click Here</a>
@@ -227,6 +227,24 @@ starting with a rect(), draw an image
 
 ---
 
+## Using `rect()`: two start buttons and a quit button
+
+#### Problem
+How do you create start and quit buttons in Processing-Java 
+
+#### Computational Thinking
+
+From Processing-Java, we being with OS-Level interactions, the SPACE BAR, IF statements and exit()
+
+From Mathematics: Boolean Variables
+
+### Details
+**Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
+- Prototype a button as a rectangle
+- Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
+
+---
+
 ## Using `rect()`: Drawing multiple shapes
 
 #### Problem & Computational Thinking
@@ -249,24 +267,6 @@ Starting with a rect(), draw multiple shapes
 ---
 
 **Note**: assignments are now dynamic and are modified flat, eventually it will be easier to use subprograms (TABS in Processing-JAVA IDE)
-
----
-
-## Using `rect()`: Creating Buttons and Mouse Interactions
-
-#### Problem
-How do you create buttons in Processing-Java 
-
-#### Computational Thinking
-
-From Processing-Java, we being with
-
-From Mathematics: 
-
-### Details
-**Creating Buttons and Mouse Interactions**, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Rect-Application-Quit-Button">Create this Example, starter and exemplar</a>
-- Prototype a button as a rectangle
-- Prototype a Quit Button (as a subprogram for introduction to dynamic non-flat programs, copying code to any program)
 
 ---
 
