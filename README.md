@@ -23,7 +23,7 @@ Table of Contents
   - Divisions and The-Basic-Shape for CS-10 in Processing-Java, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#divisions-and-the-basic-shape-for-cs-10-in-processing-java">Click Here</a>
   - Using `rect()`: Drawing Text, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-text">Click Here</a>
   - Using `rect()`: Drawing an Image, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-an-image">Click Here</a>
-  - Using `rect()`: Creating 2-start & 1-quit buttons, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-creating-buttons-and-mouse-interactions">Click Here</a>
+  - Using `rect()`: Creating 2-start & 1-quit buttons, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-two-start-buttons-and-a-quit-button">Click Here</a>
   - Using `rect()`: Drawing multiple shapes , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#using-rect-drawing-multiple-shapes">Click Here</a>
   - Practice Makes Better: Repeating Buttons and Mouse Interactions , <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#practice-makes-better-repeating-buttons-and-mouse-interactions">Click Here</a>
 - Final Exam: Drawing Program, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program">Click Here</a>
