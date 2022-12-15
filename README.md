@@ -543,3 +543,12 @@ Note: With FOR Population after music player in arrays & two types of IF, more c
 ## Extensions
 
 ---
+
+# Learning Code through Alogrithms
+- Algorithms for CS10, what are examples for CS10
+- How do these fit into CS20 & CS30
+
+Ask Kevin Workman about Interfaces
+
+---
+
